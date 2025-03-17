@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 👨‍💻 Author
 
-Developed by _[Somnath Barangule](https://www.linkedin.com/in/somnath-barangule-278115288) & [Shiksha Soni](https://www.linkedin.com/in/shiksha-sourabh-soni-a5544922a/)_.<br/>
+Developed by _[Somnath Barangule](https://www.linkedin.com/in/somnath-barangule-278115288).<br/>
 For any issues or contributions, feel free to raise a pull request or contact us on LinkedIn.
 
 ---
